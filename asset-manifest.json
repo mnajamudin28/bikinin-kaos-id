@@ -1,19 +1,17 @@
 {
   "files": {
     "main.css": "/react-gh-pages/static/css/main.50d7f807.css",
-    "main.js": "/react-gh-pages/static/js/main.f0353a8e.js",
-    "static/js/787.28cb0dcd.chunk.js": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js",
+    "main.js": "/react-gh-pages/static/js/main.fccaf28c.js",
     "static/media/slide-3.png": "/react-gh-pages/static/media/slide-3.86959e9853c033c26217.png",
     "static/media/slide-1.png": "/react-gh-pages/static/media/slide-1.7ac9d8b7146b2ab1a2b4.png",
     "static/media/slide-2.png": "/react-gh-pages/static/media/slide-2.152f7911a88945f1227c.png",
     "static/media/logo-kaos.png": "/react-gh-pages/static/media/logo-kaos.6b31304969bd64ddd58a.png",
     "index.html": "/react-gh-pages/index.html",
     "main.50d7f807.css.map": "/react-gh-pages/static/css/main.50d7f807.css.map",
-    "main.f0353a8e.js.map": "/react-gh-pages/static/js/main.f0353a8e.js.map",
-    "787.28cb0dcd.chunk.js.map": "/react-gh-pages/static/js/787.28cb0dcd.chunk.js.map"
+    "main.fccaf28c.js.map": "/react-gh-pages/static/js/main.fccaf28c.js.map"
   },
   "entrypoints": [
     "static/css/main.50d7f807.css",
-    "static/js/main.f0353a8e.js"
+    "static/js/main.fccaf28c.js"
   ]
 }
