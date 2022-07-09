@@ -1,5 +1,6 @@
 .logo{
-   width: 150px;
+   padding-top: 20px;
+   width: 30%;
 }
 
 .toggle{
@@ -7,3 +8,16 @@
    width: 100%;
 }
 
+.Navbar{
+   z-index: 1;
+   padding-left: 50px;
+   padding-right: 50px;
+}
+
+.txt-nav{
+   color: white !important;
+}
+
+.txt-nav :hover{
+   background-color: rgba(15, 43, 77, 1) 100%;
+}

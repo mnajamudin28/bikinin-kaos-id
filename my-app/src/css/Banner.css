@@ -1,0 +1,38 @@
+.slide{
+   width:100%;
+   margin: auto;
+   margin-top: -10%;
+   z-index: 0;
+}
+
+.carousel{
+   background-image: url("../img/slide-1.png");
+   margin-top: -130px;  
+   width: 100%;
+   background-repeat: no-repeat;
+}
+
+.carousel h1{
+   padding-left: 100px;
+   padding-top: 300px;
+   color: white;
+   width: 700px;
+   font-size: 48px;
+}
+
+.carousel p{
+   color: white;
+   padding-left: 100px;
+   width: 700px;
+   margin-top: 20px;
+   font-size: 20px;
+}
+
+.carousel Button{
+   margin-left: 100px;
+   margin-bottom: 200px;
+   padding-left: 20px;
+   margin-top: 10px;
+   padding-right: 20px;
+   border-radius: 10px;
+}

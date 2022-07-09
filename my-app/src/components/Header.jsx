@@ -7,18 +7,20 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function Header(){
    return(
       <div>
-         <Navbar bg="light" variant="light">
-            <Container>
-               <Navbar.Brand href="#home"><img src={logo} alt="" className="logo"/></Navbar.Brand>
-               <div className="toggle"></div>
-               <Nav className="me-auto nav-menu">
-                  <Nav.Link href="#home">Home</Nav.Link>
-                  <Nav.Link href="#features">Features</Nav.Link>
-                  <Nav.Link href="#pricing">Pricing</Nav.Link>
-               </Nav>
+         <div >
+            <Container fluid>
+               <Navbar className="Navbar">
+                  <Navbar.Brand href="#home"><img src={logo} alt="" className="logo" /></Navbar.Brand>
+                  <div className="toggle"></div>
+                  <Nav className="me-auto nav-menu">
+                     <Nav.Link href="Banner" className="txt-nav">Banner</Nav.Link>
+                     <Nav.Link href="#features" className="txt-nav">Features</Nav.Link>
+                     <Nav.Link href="#pricing" className="txt-nav">Pricing</Nav.Link>
+                  </Nav>
+               </Navbar>
             </Container>
-         </Navbar>
-         <p>sdasdasas</p>
+         </div>
+         
       </div>
    );
 
