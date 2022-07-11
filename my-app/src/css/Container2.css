@@ -1,0 +1,37 @@
+.hr1{
+   border: 5px solid #0F2B4D;
+   border-radius: 5px;
+   width: 100px;
+   margin: auto;
+}
+
+.container2{
+   margin: auto;
+   margin-bottom: 50px;
+   height: 600px;
+   width: 1000px;
+}
+
+.card{
+   width:280px;
+   height: 400px;
+   background-color: #0F2B4D;
+   color: white;
+   padding-left: 15px;
+   border-radius: 10px;
+   display: inline-block;
+   margin-top: 50px;
+   margin-left: 40px;
+}
+
+.card h3{
+   font-weight: lighter;
+}
+
+.card img{
+   margin-top: 15px;
+   margin-bottom: 20px;
+   width: 250px;
+   border-radius: 10px;
+}
+

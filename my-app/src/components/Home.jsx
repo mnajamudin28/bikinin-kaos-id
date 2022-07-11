@@ -1,7 +1,8 @@
 import React from 'react';
+import Header from './Header';
 import Banner from './Banner';
 import Container1 from './Container1';
-import Header from './Header';
+import Container2 from './Container2'
 
 
 function Home(){
@@ -10,6 +11,7 @@ function Home(){
          <Header/>
          <Banner />
          <Container1 />
+         <Container2 />
       </div>
    )
 }
